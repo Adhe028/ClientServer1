@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Client">
+  <component name="RunManager" selected="Python.json_dict">
     <configuration name="Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json-decode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pertemuan6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pertemuan7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pertemuan6/Set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pertemuan7/json-decode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pertemuan6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pertemuan7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pertemuan6/Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pertemuan7/json_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.json_dict" />
+        <item itemvalue="Python.json-decode" />
         <item itemvalue="Python.Client" />
         <item itemvalue="Python.Server" />
         <item itemvalue="Python.Dictionary" />
-        <item itemvalue="Python.Tuple" />
-        <item itemvalue="Python.Set" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,9 @@
       <workItem from="1570442280920" duration="26000" />
       <workItem from="1572512253527" duration="227000" />
       <workItem from="1572512635946" duration="1400000" />
-      <workItem from="1572514088482" duration="253000" />
+      <workItem from="1572514088482" duration="1056000" />
+      <workItem from="1573113488798" duration="1287000" />
+      <workItem from="1573117266124" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1572514271799</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572514271799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1572514353604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572514353604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +236,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ClientServer1$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1570434971264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan3" />
     <SUITE FILE_PATH="coverage/pertemuan1$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1570174552361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan3" />
+    <SUITE FILE_PATH="coverage/ClientServer1$json_decode.coverage" NAME="json-decode Coverage Results" MODIFIED="1573802215661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan7" />
     <SUITE FILE_PATH="coverage/ClientServer1$if_elif_else.coverage" NAME="if_elif_else Coverage Results" MODIFIED="1570434975063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan2" />
     <SUITE FILE_PATH="coverage/ClientServer1$Set.coverage" NAME="Set Coverage Results" MODIFIED="1572513615681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan6" />
     <SUITE FILE_PATH="coverage/ClientServer1$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1572513676633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan6" />
@@ -235,6 +245,7 @@
     <SUITE FILE_PATH="coverage/untitled1$for_loop_continue.coverage" NAME="for_loop_continue Coverage Results" MODIFIED="1570174117178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan3" />
     <SUITE FILE_PATH="coverage/ClientServer1$if.coverage" NAME="if Coverage Results" MODIFIED="1572513097555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan2" />
     <SUITE FILE_PATH="coverage/ClientServer1$Client.coverage" NAME="Client Coverage Results" MODIFIED="1572514151607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan5" />
+    <SUITE FILE_PATH="coverage/ClientServer1$json_dict.coverage" NAME="json_dict Coverage Results" MODIFIED="1573802264058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan7" />
     <SUITE FILE_PATH="coverage/untitled1$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1570174169046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan3" />
     <SUITE FILE_PATH="coverage/ClientServer1$if_else.coverage" NAME="if_else Coverage Results" MODIFIED="1570435146867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan2" />
     <SUITE FILE_PATH="coverage/ClientServer1$list.coverage" NAME="list Coverage Results" MODIFIED="1572513594002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pertemuan6" />
